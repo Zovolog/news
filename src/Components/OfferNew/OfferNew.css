@@ -1,0 +1,38 @@
+.offer-wrapper {
+  width: 70%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  height: 90vh;
+}
+input {
+  width: 50%;
+  border-radius: 25px;
+  padding: 10px;
+  font-size: 18px;
+  outline: none;
+  margin-top: 20px;
+}
+textarea {
+  width: 70%;
+  height: 300px;
+  margin-top: 20px;
+  font-size: 18px;
+  outline: none;
+  padding: 10px 10px 0 10px;
+}
+.send {
+  width: 40%;
+  padding: 15px;
+  background-color: red;
+  margin-top: 30px;
+  font-size: 18px;
+  color: #fff;
+  border-radius: 25px;
+  outline: none;
+  cursor: pointer;
+  border: none;
+}
+.send:hover{
+  background-color: rgb(156, 0, 0);
+}
