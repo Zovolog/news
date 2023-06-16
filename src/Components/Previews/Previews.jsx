@@ -6,6 +6,7 @@ export const Previews = () => {
     {
       img: "atomic.jpg",
       text: "Atomic Heart — це одиночний шутер від першої особи, розроблений Mundfish і виданий Focus Entertainment і 4Divinity. Гра була випущена для PlayStation 4, PlayStation 5, Windows, Xbox One і Xbox Series X/S 21 лютого 2023 року. Після випуску гра отримала загалом позитивні відгуки.",
+      data: "Лютий 21, 2023",
     },
     {
       img: "dead-island.webp",
